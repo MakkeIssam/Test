@@ -1,0 +1,1 @@
+int est_premier(int);
